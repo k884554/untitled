@@ -1,0 +1,18 @@
+{ "artist_id" : "0", "name" : "アヴェマリア", "genre": "ルネサンス音楽", "key" : "Major" }
+{ "artist_id" : "1", "name" : "半音階的幻想曲とフーガニ単調 BWV903", "genre": "バロック音楽", "key" : "Minor" }
+{ "artist_id" : "1", "name" : "メヌエット ト長調 Anh. 114", "genre": "バロック音楽", "key" : "Major" }
+{ "artist_id" : "2", "name" : "きらきら星変奏曲", "genre": "古典派音楽", "key" : "Major" }
+{ "artist_id" : "2", "name" : "ピアノ協奏曲第２０番ニ単調 K.466", "genre": "古典派音楽", "key" : "Minor" }
+{ "artist_id" : "3", "name" : "ピアノ・ソナタ第８番ハ短調作品「悲愴」", "genre": "古典派音楽", "key" : "Minor" }
+{ "artist_id" : "3", "name" : "ピアノソナタ第14番嬰ハ短調 作品27-2 「幻想曲風ソナタ」", "genre": "古典派音楽", "key" : "Minor" }
+{ "artist_id" : "3", "name" : "エリーゼのために", "genre": "古典派音楽", "key" : "Minor" }
+{ "artist_id" : "3", "name" : "ピアノ・ソナタ第３０番ホ長調第三楽章", "genre": "古典派音楽", "key" : "Major" }
+{ "artist_id" : "4", "name" : "子犬のワルツ", "genre": "ロマン派音楽", "key" : "Major" }
+{ "artist_id" : "4", "name" : "黒鍵のエチュード", "genre": "ロマン派音楽", "key" : "Major" }
+{ "artist_id" : "4", "name" : "幻想即興曲", "genre": "ロマン派音楽", "key" : "Minor" }
+{ "artist_id" : "4", "name" : "練習曲第３番「別れの曲」", "genre": "ロマン派音楽", "key" : "Minor" }
+{ "artist_id" : "5", "name" : "ベルガマスク組曲より「月の光」", "genre": "近代音楽", "key" : "Major" }
+{ "artist_id" : "5", "name" : "２つのアラベスク", "genre": "近代音楽", "key" : "Major" }
+{ "artist_id" : "5", "name" : "「前奏曲集第一巻」より亜麻色の髪の少女", "genre": "近代音楽", "key" : "Minor" }
+{ "artist_id" : "6", "name" : "ピアノディスタンス", "genre": "現代音楽", "key" : "Minor" }
+{ "artist_id" : "6", "name" : "ロマンス", "genre": "現代音楽", "key" : "Minor" }
